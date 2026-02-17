@@ -18,7 +18,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown('<p class="main-header">🔍 Causal Insights Dashboard</p>', unsafe_allow_html=True)
-st.markdown('<p class="sub-header">Automatically discover why your metrics changed — built for Fire AI</p>', unsafe_allow_html=True)
+st.markdown('<p class="sub-header">Automatically discover why your metrics changed — built for Eaton</p>', unsafe_allow_html=True)
 
 with st.sidebar:
     st.markdown("### 📊 Data Input")
@@ -175,4 +175,5 @@ else:
     st.info("👈 Upload data or select demo dataset to start analysis")
 
 st.markdown("---")
-st.markdown("Built for **Fire AI** | Developed by Himanshu Maurya | [LinkedIn](https://linkedin.com/in/himanshhh07/)")
+st.markdown("Built for **Eaton** | Developed by Himanshu Maurya | [LinkedIn](https://linkedin.com/in/himanshhh07/)")
+
